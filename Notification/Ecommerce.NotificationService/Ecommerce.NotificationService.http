@@ -1,0 +1,6 @@
+@Ecommerce.NotificationService_HostAddress = http://localhost:5239
+
+GET {{Ecommerce.NotificationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

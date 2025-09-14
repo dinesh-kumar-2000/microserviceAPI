@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Gateway\\Ecommerce.PaymentService\\Ecommerce.PaymentService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Notification\\Ecommerce.NotificationService\\Ecommerce.NotificationService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\CatalogService\\Ecommerce.Catalog.API\\Ecommerce.Catalog.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

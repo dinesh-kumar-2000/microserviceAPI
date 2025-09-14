@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{985119DB-B52E-61A1-F3AF-CF26F92C667D}|Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj|d:\\dinesh\\microservices\\microservices\\ecommerce\\authentication\\ecommerce.identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985119DB-B52E-61A1-F3AF-CF26F92C667D}|Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj|solutionrelative:authentication\\ecommerce.identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985119DB-B52E-61A1-F3AF-CF26F92C667D}|Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj|d:\\dinesh\\microservices\\microservices\\ecommerce\\authentication\\ecommerce.identityservice\\controllers\\userpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985119DB-B52E-61A1-F3AF-CF26F92C667D}|Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj|solutionrelative:authentication\\ecommerce.identityservice\\controllers\\userpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985119DB-B52E-61A1-F3AF-CF26F92C667D}|Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj|d:\\dinesh\\microservices\\microservices\\ecommerce\\authentication\\ecommerce.identityservice\\ecommerce.identityservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{985119DB-B52E-61A1-F3AF-CF26F92C667D}|Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj|solutionrelative:authentication\\ecommerce.identityservice\\ecommerce.identityservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AC28B3-1883-4676-AD80-CB14193535B1}|Authentication\\Ecommerce.IdentityService.Infrastructure\\Ecommerce.IdentityService.Infrastructure.csproj|d:\\dinesh\\microservices\\microservices\\ecommerce\\authentication\\ecommerce.identityservice.infrastructure\\ecommerce.identityservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52AC28B3-1883-4676-AD80-CB14193535B1}|Authentication\\Ecommerce.IdentityService.Infrastructure\\Ecommerce.IdentityService.Infrastructure.csproj|solutionrelative:authentication\\ecommerce.identityservice.infrastructure\\ecommerce.identityservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1091D9C-DF4D-4472-947A-33A9FF33C80F}|Authentication\\Ecommerce.IdentityService.Domain\\Ecommerce.IdentityService.Domain.csproj|d:\\dinesh\\microservices\\microservices\\ecommerce\\authentication\\ecommerce.identityservice.domain\\ecommerce.identityservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1091D9C-DF4D-4472-947A-33A9FF33C80F}|Authentication\\Ecommerce.IdentityService.Domain\\Ecommerce.IdentityService.Domain.csproj|solutionrelative:authentication\\ecommerce.identityservice.domain\\ecommerce.identityservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96C5899-B125-496C-8A75-29095BBFF074}|Authentication\\Ecommerce.IdentityService.Application\\Ecommerce.IdentityService.Application.csproj|d:\\dinesh\\microservices\\microservices\\ecommerce\\authentication\\ecommerce.identityservice.application\\ecommerce.identityservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F96C5899-B125-496C-8A75-29095BBFF074}|Authentication\\Ecommerce.IdentityService.Application\\Ecommerce.IdentityService.Application.csproj|solutionrelative:authentication\\ecommerce.identityservice.application\\ecommerce.identityservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Ecommerce.IdentityService\\Program.cs",
+              "ToolTip": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService\\Program.cs",
+              "RelativeToolTip": "Authentication\\Ecommerce.IdentityService\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:35:42.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserPermissionController.cs",
+              "DocumentMoniker": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService\\Controllers\\UserPermissionController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Ecommerce.IdentityService\\Controllers\\UserPermissionController.cs",
+              "ToolTip": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService\\Controllers\\UserPermissionController.cs",
+              "RelativeToolTip": "Authentication\\Ecommerce.IdentityService\\Controllers\\UserPermissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:33:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ecommerce.IdentityService.API",
+              "DocumentMoniker": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj",
+              "RelativeDocumentMoniker": "Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj",
+              "ToolTip": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj",
+              "RelativeToolTip": "Authentication\\Ecommerce.IdentityService\\Ecommerce.IdentityService.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T16:32:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ecommerce.IdentityService.Infrastructure",
+              "DocumentMoniker": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService.Infrastructure\\Ecommerce.IdentityService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Authentication\\Ecommerce.IdentityService.Infrastructure\\Ecommerce.IdentityService.Infrastructure.csproj",
+              "ToolTip": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService.Infrastructure\\Ecommerce.IdentityService.Infrastructure.csproj",
+              "RelativeToolTip": "Authentication\\Ecommerce.IdentityService.Infrastructure\\Ecommerce.IdentityService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T16:05:58.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ecommerce.IdentityService.Domain",
+              "DocumentMoniker": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService.Domain\\Ecommerce.IdentityService.Domain.csproj",
+              "RelativeDocumentMoniker": "Authentication\\Ecommerce.IdentityService.Domain\\Ecommerce.IdentityService.Domain.csproj",
+              "ToolTip": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService.Domain\\Ecommerce.IdentityService.Domain.csproj",
+              "RelativeToolTip": "Authentication\\Ecommerce.IdentityService.Domain\\Ecommerce.IdentityService.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T16:02:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ecommerce.IdentityService.Application",
+              "DocumentMoniker": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService.Application\\Ecommerce.IdentityService.Application.csproj",
+              "RelativeDocumentMoniker": "Authentication\\Ecommerce.IdentityService.Application\\Ecommerce.IdentityService.Application.csproj",
+              "ToolTip": "D:\\Dinesh\\Microservices\\Microservices\\Ecommerce\\Authentication\\Ecommerce.IdentityService.Application\\Ecommerce.IdentityService.Application.csproj",
+              "RelativeToolTip": "Authentication\\Ecommerce.IdentityService.Application\\Ecommerce.IdentityService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T15:59:04.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
